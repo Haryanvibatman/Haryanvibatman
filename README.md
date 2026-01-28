@@ -1,77 +1,70 @@
-🤖 Machine Learning Explorer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Hello,+I'm+HaryanviBatman;Artificial+Intelligence+Explorer;Building+the+Future+with+AI" />
+</p>
 
-✨ Turning data into intelligence, one model at a time.
+<h1 align="center">🤖 HaryanviBatman</h1>
+<h3 align="center">AI & Machine Learning Enthusiast | Engineering Student | Future AI Engineer 🚀</h3>
 
-👋 About Me
+---
 
-Hi there! I'm passionate about Artificial Intelligence & Machine Learning and love building systems that can learn, predict, and improve automatically.
-I enjoy exploring how math + code + data come together to create smart solutions.
+## 🧠 About Me
 
-🎓 Engineering student
+```yaml
+Name: HaryanviBatman
+Field: Artificial Intelligence & Machine Learning
+Education: Engineering Student
+Mission: Build intelligent systems that solve real-world problems
+Status: Learning • Building • Growing
+I’m passionate about turning data into intelligence and exploring how machines can learn, think, and make decisions.
 
-🧠 Interested in AI, ML, and Data Science
+⚡ Current Focus
 
-💻 Learning to build real-world intelligent systems
+📘 Machine Learning Fundamentals
 
-🚀 Goal: To become an AI Engineer and build impactful tech
+🧠 Neural Networks & Deep Learning
 
-🧠 What is Machine Learning?
+📊 Data Analysis with Python
 
-Machine Learning (ML) is a branch of AI that allows computers to learn from data without being explicitly programmed.
+🚀 Building AI Projects
 
-Instead of writing rules:
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,html,css,js" /> </p>
 
-We give machines data, and they find the patterns.
+Libraries & Tools:
 
-🔍 Types of Machine Learning
-Type	Description	Example
-📘 Supervised Learning	Learns from labeled data	Spam email detection
-📗 Unsupervised Learning	Finds patterns in unlabeled data	Customer segmentation
-📙 Reinforcement Learning	Learns through rewards & penalties	Game-playing AI
-⚙️ ML Workflow
-Data Collection → Data Cleaning → Feature Engineering → Model Training → Evaluation → Deployment
+NumPy
 
-🛠 Tools & Technologies I'm Learning
+Pandas
 
-🐍 Python
+Matplotlib
 
-📊 NumPy, Pandas
+Scikit-learn
 
-📈 Matplotlib, Seaborn
+TensorFlow (learning stage)
 
-🤖 Scikit-learn
+🧪 AI Workflow
+Data → Processing → Model Training → Evaluation → Optimization → Deployment
 
-🧠 TensorFlow / PyTorch (next level 🔥)
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haryanvibatman&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haryanvibatman&theme=tokyonight" /> </p>
+🧠 AI Projects (Coming Soon)
 
-📂 ML Projects (Coming Soon)
+🤖 Machine Learning Models
 
-🔢 Linear Regression Model
+📈 Prediction Systems
 
-🖼 Image Classifier
+🖼 Image Processing
 
-💬 Sentiment Analysis
+💬 NLP Projects
 
-📈 Stock Prediction Model
+🌍 Vision
 
-📚 Currently Learning
+“Artificial Intelligence is not the future — it’s the present we are building.”
 
-Machine Learning fundamentals
+I aim to contribute to technologies that make life smarter, faster, and better.
 
-Data analysis
+📫 Connect
 
-Model optimization
+More links coming soon…
 
-Neural networks
-
-🌟 Why ML is Powerful
-
-✔ Automates decision-making
-✔ Finds hidden patterns
-✔ Improves with more data
-✔ Used in healthcare, finance, robotics, gaming, and more
-
-📫 Let's Connect
-
-💬 Always open to learning, collaboration, and AI discussions!
-
-“The best way to predict the future is to build it.” 🚀
+<h2 align="center">✨ Building Intelligence, One Model at a Time ✨</h2> ```
